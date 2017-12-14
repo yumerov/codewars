@@ -1,0 +1,1 @@
+--https://www.codewars.com/kata/sql-basics-simple-table-totaling/train/sql
