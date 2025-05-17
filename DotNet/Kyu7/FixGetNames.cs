@@ -8,7 +8,7 @@ public class Person(string name = "John", int age = 21)
     public string Name = name;
 }
 
-public class GetNames
+public class FixGetNames
 {
     public static string[] GetNames(Person[] data) => data.Select(person => person.Name).ToArray();
 }
