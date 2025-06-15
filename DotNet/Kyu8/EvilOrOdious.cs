@@ -1,5 +1,8 @@
 // https://www.codewars.com/kata/evil-or-odious/train/csharp
 
+using System;
+using System.Linq;
+
 namespace DotNet.Kyu8;
 
 public class EvilOrOdious

@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/generate-range-of-integers/train/csharp
 
+using System;
+
 namespace DotNet.Kyu8;
 
 using System.Collections.Generic;

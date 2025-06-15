@@ -1,5 +1,8 @@
 // https://www.codewars.com/kata/57f222ce69e09c3630000212/train/csharp
 
+using System;
+using System.Linq;
+
 namespace DotNet.Kyu8;
 
 public class WellOfIdeasEasyVersion

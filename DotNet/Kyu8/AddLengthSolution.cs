@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/add-length/train/csharp
 
+using System;
+
 namespace DotNet.Kyu8;
 
 using System.Linq;

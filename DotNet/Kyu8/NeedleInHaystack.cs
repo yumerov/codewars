@@ -1,3 +1,5 @@
+using System;
+
 namespace DotNet.Kyu8;
 
 public class NeedleInHaystack

@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd/train/csharp
 
+using System;
+
 namespace DotNet.Kyu7;
 
 public class GreatestCommonDivisor

@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/517b0f33cd023d848d000001/train/csharp
 
+using System;
+
 namespace DotNet.Kyu7;
 
 public class Warrior

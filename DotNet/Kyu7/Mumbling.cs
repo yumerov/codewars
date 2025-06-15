@@ -1,3 +1,6 @@
+using System;
+using System.Linq;
+
 namespace DotNet.Kyu7;
 
 public class Mumbling

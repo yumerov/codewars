@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/speed-control/train/csharp
 
+using System;
+
 namespace DotNet.Kyu7;
 
 using System.Linq;

@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/collatz-conjecture-3n-plus-1/train/csharp
 
+using System;
+
 namespace DotNet.Kyu8;
 
 public class CollatzConjecture

@@ -1,5 +1,8 @@
 // https://www.codewars.com/kata/dont-give-me-five/train/csharp
 
+using System;
+using System.Linq;
+
 namespace DotNet.Kyu8;
 
 public class DoNotGiveMeFive

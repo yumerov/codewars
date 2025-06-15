@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/are-you-playing-banjo/train/csharp
 
+using System;
+
 namespace DotNet.Kyu8;
 
 public class Banjo

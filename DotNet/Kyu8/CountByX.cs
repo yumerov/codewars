@@ -1,5 +1,8 @@
 // https://www.codewars.com/kata/count-by-x/train/csharp
 
+using System;
+using System.Linq;
+
 namespace DotNet.Kyu8;
 
 public class CountByX
