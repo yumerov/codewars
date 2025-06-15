@@ -21,6 +21,5 @@ public class SumTheTree
     {
         Console.WriteLine($"{SumTree(new Node(10, new Node(1), new Node(2)))} == 13");
         Console.WriteLine($"{SumTree(new Node(11, new Node(0), new Node(0, null, new Node(1))))} == 12");
-
     }
 }
