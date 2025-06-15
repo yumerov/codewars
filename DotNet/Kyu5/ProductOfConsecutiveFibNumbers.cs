@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/csharp
 
+using System;
+
 namespace DotNet;
 
 public class ProductOfConsecutiveFibNumbers

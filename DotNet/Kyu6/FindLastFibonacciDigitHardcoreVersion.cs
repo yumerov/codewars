@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/56b7771481290cc283000f28/solutions/csharp
 
+using System;
+
 namespace DotNet.Kyu6;
 
 public class FindLastFibonacciDigitHardcoreVersion

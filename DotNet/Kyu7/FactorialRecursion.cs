@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/57fa92b25c9910e7bc0001df/train/csharp
 
+using System;
+
 namespace DotNet.Kyu7;
 
 public class FactorialRecursion

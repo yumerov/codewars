@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/bit-counting/train/csharp
 
+using System;
+
 namespace DotNet.Kyu6;
 
 using System.Linq;

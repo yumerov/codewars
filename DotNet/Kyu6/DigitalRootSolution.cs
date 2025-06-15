@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/541c8630095125aba6000c00/train/csharp
 
+using System.Linq;
+
 namespace DotNet.Kyu6;
 
 public class DigitalRootSolution

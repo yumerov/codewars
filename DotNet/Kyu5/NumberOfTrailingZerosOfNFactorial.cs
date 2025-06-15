@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/number-of-trailing-zeros-of-n/train/csharp
 
+using System;
+
 namespace DotNet;
 
 public class NumberOfTrailingZerosOfNFactorial

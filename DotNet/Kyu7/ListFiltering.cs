@@ -1,5 +1,9 @@
 // https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/csharp
 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
 namespace DotNet.Kyu7;
 
 public class ListFiltering

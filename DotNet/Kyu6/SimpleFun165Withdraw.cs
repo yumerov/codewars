@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/simple-fun-number-165-withdraw/train/csharp
 
+using System;
+
 namespace DotNet.Kyu6;
 
 public class SimpleFun165Withdraw

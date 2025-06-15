@@ -1,6 +1,9 @@
 // https://www.codewars.com/kata/58678d29dbca9a68d80000d7/train/csharp
 
-namespace DotNet;
+using System;
+using System.Collections.Generic;
+
+namespace DotNet.Kyu5;
 
 public class EsolangInterpreters2CustomSmallfookInterpreter
 {

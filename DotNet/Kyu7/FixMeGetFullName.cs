@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/597c684822bc9388f600010f/train/csharp
 
+using System;
+
 namespace DotNet.Kyu7;
 
 public class Dinglemouse(string firstName, string lastName)

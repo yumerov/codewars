@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/collatz/train/csharp
 
+using System;
+
 namespace DotNet.Kyu6;
 
 

@@ -1,6 +1,8 @@
 // https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/csharp
 
-namespace DotNet;
+using System.Linq;
+
+namespace DotNet.Kyu5;
 
 public class MovingZerosToTheEnd
 {

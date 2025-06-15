@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0/train/csharp
 
+using System;
+
 namespace DotNet.Kyu6;
 
 public class MiniStringFook

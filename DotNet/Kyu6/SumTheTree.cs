@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/5800580f8f7ddaea13000025/train/csharp
 
+using System;
+
 namespace DotNet.Kyu6;
 
 public class Node(int value, Node? left = null, Node? right = null)

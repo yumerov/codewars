@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/582c297e56373f0426000098/solutions/csharp
 
+using System;
+
 namespace DotNet.Kyu7;
 
 public class Node {

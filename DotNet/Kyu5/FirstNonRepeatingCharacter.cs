@@ -1,6 +1,8 @@
 // https://www.codewars.com/kata/first-non-repeating-character/train/csharp
 
-namespace DotNet;
+using System;
+
+namespace DotNet.Kyu5;
 
 using System.Linq;
 

@@ -1,5 +1,8 @@
 // https://www.codewars.com/kata/526156943dfe7ce06200063e/train/csharp
 
+using System;
+using System.Collections.Generic;
+
 namespace DotNet;
 
 public class MySmallestCodeInterpreterAkaBrainfook
